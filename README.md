@@ -3,8 +3,7 @@
 - 👋 Olá, meu nome é @barbarawxx
 - 👍 barbara@escola.pr.gov.br
 - 🌱 estou interessada a aprender a programar novas linguagens 
-- estou aprendendo a programar recentemente a linguagem de JavaScri
-pt e Scratch
+- estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
 <!---
 barbarawxx/barbarawxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
